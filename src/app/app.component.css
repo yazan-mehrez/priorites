@@ -1,0 +1,19 @@
+.form-item {
+  margin-bottom: 10px;
+}
+
+.btn-add {
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.items-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 25px;
+}
+
+.menu {
+  border-right: 2px solid grey;
+  padding-right: 10px;
+}

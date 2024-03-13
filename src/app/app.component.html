@@ -1,0 +1,24 @@
+<h1 *ngIf="!showWinnerCard">Which one is better</h1>
+<h1 *ngIf="showWinnerCard">And The Winner Is !!</h1>
+
+<div class="items-container">
+  <div class="menu">
+    <form [formGroup]="form">
+      <div formArrayName="list">
+        <div *ngFor="let item of lists.controls; let i = index" class="form-item">
+          <input type="text" formControlName="itemName" placeholder="Enter item">
+        </div>
+      </div>
+      <button type="button" (click)="addItem()" class="btn-add">+</button>
+    </form>
+  </div>
+  <div>
+    <div class="item"><span>{{ item1.name }}</span></div>
+    <div class="item"><span>{{ item2.name }}</span></div>
+  </div>
+</div>
+
+
+<!-- <div *ngIf="currentQuestion <= totalQuestions" class="question-counter">
+  Question {{ currentQuestion }} / {{ totalQuestions }}
+</div> -->

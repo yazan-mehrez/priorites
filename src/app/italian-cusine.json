@@ -1,0 +1,38 @@
+[
+  {
+     "name":"Pizza Margherita",
+     "image":"https://images.unsplash.com/photo-1600028068383-ea11a7a101f3?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGl6emElMjBtYXJnaGVyaXRhfGVufDB8fDB8fHww"
+  },
+  {
+     "name":"Spaghetti Bolognese",
+     "image":"https://plus.unsplash.com/premium_photo-1664478291780-0c67f5fb15e6?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8U3BhZ2hldHRpJTIwQm9sb2duZXNlfGVufDB8fDB8fHww"
+  },
+  {
+     "name":"Lasagna",
+     "image":"https://images.unsplash.com/photo-1629115916087-7e8c114a24ed?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TGFzYWduYXxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+     "name":"Risotto alla Milanese",
+     "image":"https://blog.vorrei.co.uk/wp-content/uploads/2021/05/SD_RisottoMilanese.jpeg"
+  },
+  {
+     "name":"Bruschetta",
+     "image":"https://media.istockphoto.com/id/1500483454/nl/foto/fresh-caprese-sandwich-on-a-table.jpg?s=612x612&w=0&k=20&c=_D_mhDIAydACntE2S_izu-B-Jw9ewAGGy52ATHxXNb4="
+  },
+  {
+     "name":"Arancini",
+     "image":"https://media.istockphoto.com/id/1299067740/nl/foto/traditionele-spaanse-tapa-van-mallorca-kroketten-met-sobrassada-en-brie-kaas.jpg?s=612x612&w=0&k=20&c=xvxCaiDxlVfg0EUU6FdMn_EzlDv2_2qQe4ZRd1jF5t4="
+  },
+  {
+     "name":"Veal Saltimbocca",
+     "image":"https://www.saveur.com/uploads/2019/09/03/CRFVCJ73NRF6OQM6AA57N6OOQU.jpg?auto=webp"
+  },
+  {
+     "name":"Pesto Pasta",
+     "image":"https://www.kitchensanctuary.com/wp-content/uploads/2023/07/Pesto-Pasta-square-FS.jpg"
+  },
+  {
+     "name":"Osso Buco",
+     "image":"https://www.insidetherustickitchen.com/wp-content/uploads/2021/05/Ossobuco-1200px-inside-the-rustic-kitchen.jpg"
+  }
+]
